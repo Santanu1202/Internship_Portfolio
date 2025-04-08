@@ -1,3 +1,3 @@
 # Internship_Portfolio
- A Portfolio pwebpage of mine is made by HTML &amp; CSS
- author - Papai
+ A Portfolio webpage of mine is made by HTML and CSS <br>
+ author - Papai <br>
